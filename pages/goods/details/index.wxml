@@ -1,0 +1,15 @@
+<view class="goods-detail-page">
+  <view class="goods-head">
+    <view class="goods-info">
+      
+      <view class="goods-title">
+        <view >{{details.content}}</view>
+      </view>
+    </view>
+
+  
+  </view>
+ 
+ 
+</view>
+<t-toast id="t-toast" />
